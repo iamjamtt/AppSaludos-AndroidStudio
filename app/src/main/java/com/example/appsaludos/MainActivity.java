@@ -42,10 +42,10 @@ public class MainActivity extends AppCompatActivity {
         }
 
         // Validación del campo número (rango de 0 a 99)
-        int number;
+        int number_edad;
         try {
-            number = Integer.parseInt(str_edad);
-            if (number < 0 || number > 99) {
+            number_edad = Integer.parseInt(str_edad);
+            if (number_edad < 0 || number_edad > 99) {
                 edad.setError("El número debe estar entre 0 y 99");
                 return;
             }
