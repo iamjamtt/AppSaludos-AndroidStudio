@@ -54,9 +54,9 @@ public class MainActivity extends AppCompatActivity {
             return;
         }
 
-        // Validación del campo teléfono (9 dígitos)
+        // Validación del campo celular (9 dígitos)
         if (str_celular.length() != 9) {
-            celular.setError("Ingrese un número de teléfono válido");
+            celular.setError("Ingrese un número de celular válido");
             return;
         }
 
