@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">AppSaludos</string>
+    <string name="app_de_saludos">App de Saludos</string>
+    <string name="txt_nombre">Nombre</string>
+    <string name="plc_nombre">Ingrese su nombre</string>
+    <string name="txt_edad">Edad</string>
+    <string name="plc_edad">Ingrese su edad</string>
+    <string name="txt_celular">Celular</string>
+    <string name="plc_celular">Ingrese su celular</string>
+    <string name="txt_email">Email</string>
+    <string name="plc_email">Ingrese su email</string>
+    <string name="txt_new_acount">ALREADY HAVE AN ACOUNT?</string>
+    <string name="btn_saludar">Saludar</string>
+</resources>
