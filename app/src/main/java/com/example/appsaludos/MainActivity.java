@@ -49,6 +49,10 @@ public class MainActivity extends AppCompatActivity {
         String str_celular = celular.getText().toString().trim();
         String str_email = email.getText().toString().trim();
 
+        if (str_name.isEmpty()){
+            name.setError("Ingrese un nombre");
+            return;
+        }
 
         // Validación del campo de texto (máximo 50 caracteres)
         if (str_name.length() > 50) {
