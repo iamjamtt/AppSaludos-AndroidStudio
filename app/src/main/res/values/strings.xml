@@ -5,6 +5,8 @@
     <string name="plc_nombre">Ingrese su nombre</string>
     <string name="txt_edad">Edad</string>
     <string name="plc_edad">Ingrese su edad</string>
+    <string name="txt_sexo">Sexo</string>
+    <string name="plc_sexo">Seleccione su sexo</string>
     <string name="txt_celular">Celular</string>
     <string name="plc_celular">Ingrese su celular</string>
     <string name="txt_email">Email</string>
